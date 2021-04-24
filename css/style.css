@@ -1,3 +1,19 @@
+/* Fonts Start */
+@font-face {
+    font-family:Lato-Regular;
+    src:url(../fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family:Ubuntu-Medium;
+    src:url(../fonts/Ubuntu-Medium.ttf);
+}
+
+@font-face {
+    font-family:Ubuntu-Bold;
+    src:url(../fonts/Ubuntu-Bold.ttf);
+}
+/* Fonts End */
 
 /* Common Strat */
 body{
@@ -8,7 +24,7 @@ body{
 }
 p {
     margin-block-end: 0px ;
-    /* margin-block-start: 0px; */
+    margin-block-start: 0px;
 }
 /* Common End  */
 
